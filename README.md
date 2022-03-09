@@ -1,2 +1,7 @@
 # datascience-unbosque-taller1
-Ingeniería de Sistemas, Computación Científica y Analítica, Taller 1 - Universidad El Bosque
+Autor: Oscar Fabian Espinosa Pinilla
+
+Universidad El Bosque
+Ingeniería de Sistemas
+Computación Científica y Analítica
+Taller 1
